@@ -2,7 +2,7 @@ let numero1 = 10;
 console.log(`questo e il primo numero: `+numero1);
 
 let numero2 = 20 
-console.log(`questo e il secondo numero: `+numero2);
+console.log(`questo e il secondo numero: ${numero2}`);
 
 
 
