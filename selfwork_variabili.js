@@ -49,6 +49,24 @@ console.log(`la media dei numeri è: ${media}`);
 
 
 
+// Selfwork Operatori 2
+let anno1 = 1999;
+
+let anno_corrente= 2025;
+
+let eta = anno_corrente - anno1;
+
+console.log(`la tua eta è: ${eta}`);
+
+let anni_mancanti = 100 - eta;
+
+console.log(`ti mancano ${anni_mancanti} anni per compiere 100 anni`);
+
+
+
+
+
+
 
 
 
