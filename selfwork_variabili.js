@@ -12,14 +12,15 @@ let somma = numero1 + numero2;
 console.log(`qusta e la somma del primo più il secondo numero: `+somma);
 
 let stringa = `Sono una stringa`;
+stringa = 'sono una stringa modificata'
 
-console.log(stringa);
+console.log(`Che cosa sono? ${stringa}`);
 
 
 
 const PIGRECO = `3.14159265359` ;
 PIGRECO = 30
-console.log(`il valore di PIGRECO `+PIGRECO);
+console.log(`il valore di PIGRECO è  ${PIGRECO}`);
 
 
 
